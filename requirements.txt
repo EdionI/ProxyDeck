@@ -1,0 +1,2 @@
+# ProxyDeck uses only modules included with standard Python 3.10+.
+# Tkinter is installed by START_HERE_Setup_ProxyDeck.bat when needed.
